@@ -56,6 +56,11 @@ weinre是一个开源的基于webkit调试的远程调试工具，它的2.0版�
 * 项目地址：https://github.com/remy/jsconsole
 
 
+### 4、其他工具参考
+
+工具列表：https://github.com/h5bp/mobile-boilerplate/wiki/Mobile-Performance-Tools
+
+
 ## 资料参考
 
 * Web应用调试：现在是Weinre和JSConsole，最终会是WebKit的远程调试协议：http://www.infoq.com/cn/news/2011/08/mobile-web-debugging
